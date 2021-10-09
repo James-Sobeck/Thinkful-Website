@@ -78,15 +78,19 @@ it look great*/
     display: inline-block;
 }
 /*Below are my stylized links, the added text-decoration attriubte makes the underline
-go away when hovered. */
+appear when hovered,active, and visited */
+a{
+    text-decoration: none;
+}
 a:visited{
     color: #3c2931;
-    text-decoration: none;
+    text-decoration: underline;
 }
 a:hover{
     color: #b18d9c;
-    text-decoration: none;
+    text-decoration: underline;
 }
 a:active{
     color: #dbcad1;
+    text-decoration: underline;
 }
