@@ -13,17 +13,17 @@ h1 {
   font-size: 3rem;
 }
 h2 {
-  color: #9E7777;
+  color: #6b4949;
   font-weight: 600;
 }
 
 h3 {
-  color: #6F4C5B;
+  color: #351020;
   font-weight: 600;
 }
 footer{
     background: #6F4C5B;
-    color: #F5E8C7;
+    color: #fdfdfc;
     text-align: center;
 }
 /* Clouds used for the background, found on pexels by eberhard grossgasteiger
@@ -50,7 +50,7 @@ it is rounded and the content is centered*/
 /* This is a board class I used to style the text blocks
 color relates to the text and background-color is the backgroun*/
 .article{
-    color: #6F4C5B;
+    color: #351020;
     font-weight: 250;
     background-color: #DEBA9D;
     text-align: center;
@@ -60,7 +60,7 @@ color relates to the text and background-color is the backgroun*/
 to set them apart as I was not sure how to blend the colors together and make
 it look great*/
 .unordered{
-    border-color: #6F4C5B;
+    border-color: #351020;
     border-style: double;
     border-radius: 15px;
     list-style-type: circle;
@@ -69,7 +69,7 @@ it look great*/
     display: inline-block;
 }
 .ordered{
-    border-color: #6F4C5B;
+    border-color: #351020;
     border-style: double;
     border-radius: 15px;
     background: #F5E8C7;
